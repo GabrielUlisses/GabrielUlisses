@@ -1,8 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 - 🔭 I’m currently working with: App development
 - 📫 How to reach me: gulissessti@hotmail.com
 - 🌱 I’m currently learning more about: Application architecture and scalability
-
+-->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div>
